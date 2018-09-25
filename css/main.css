@@ -1884,7 +1884,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #73ffc8;
+  background: #c34dff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2987,7 +2987,8 @@ hr {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 body {
-  background: url("https://api.lylares.com/bing/image/?1920/1080/5");
+  background: url("http://pfletlg4c.bkt.clouddn.com/%E9%AC%BC%E5%88%80.jpg");
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
