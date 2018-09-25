@@ -1884,7 +1884,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0b202b;
+  background: #77fff4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2992,6 +2992,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
+  font-size: 17px;
 }
 .main-inner {
   margin-top: 60px;
@@ -3010,6 +3011,8 @@ body {
 }
 .site-author-name {
   color: #000;
+  font-weight: 500;
+  font-size: x-large;
 }
 .site-state-item-name {
   color: #000;
@@ -3019,4 +3022,17 @@ body {
 }
 .sidebar a {
   color: #fc6423;
+}
+.posts-collapse .collection-title small {
+  color: #555;
+  margin-left: 10px;
+}
+.menu .menu-item a {
+  font-size: large;
+}
+a {
+  border-bottom-color: #000;
+}
+.category-all-page .category-list-count {
+  color: #000;
 }
