@@ -1884,7 +1884,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #77fff4;
+  background: #9eadff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2987,7 +2987,7 @@ hr {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 body {
-  background: url("http://pfletlg4c.bkt.clouddn.com/%E9%AC%BC%E5%88%80.jpg");
+  background: url("https://api.lylares.com/bing/image/?1920/1080/5");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -3035,4 +3035,7 @@ a {
 }
 .category-all-page .category-list-count {
   color: #000;
+}
+.post-toc ol a {
+  color: #5c5c5c;
 }
